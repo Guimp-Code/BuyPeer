@@ -1,2 +1,2 @@
-# Toriba
-Projeto Toriba E-commercer 
+# BuyPeer
+Plataforma de E-commerce
