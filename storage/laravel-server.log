@@ -11865,3 +11865,525 @@ PHP Notice:  date_default_timezone_set(): Timezone ID '' is invalid in /home/gui
   2025-08-16 04:28:35 .................................................................. ~ 0s
   2025-08-16 04:28:35 /images/required/theme-favicon-logo.png .......................... ~ 0s
   2025-08-16 04:28:35 /images/required/theme-footer-logo.png ........................... ~ 0s
+
+   WARN  PHP Notice: date_default_timezone_set(): Timezone ID '' is invalid in vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/LoadConfiguration.php on line 47.  
+
+  2025-08-16 05:00:18 .................................................................. ~ 0s
+  2025-08-16 05:00:18 /themes/default/css/custom.css ................................... ~ 0s
+  2025-08-16 05:00:18 /themes/default/js/modal.js ...................................... ~ 0s
+  2025-08-16 05:00:18 /themes/default/js/customScript.js ............................... ~ 0s
+  2025-08-16 05:00:18 /pwa/index.js .................................................... ~ 0s
+  2025-08-16 05:00:18 /themes/default/js/tabs.js ....................................... ~ 0s
+
+   WARN  PHP Notice: date_default_timezone_set(): Timezone ID '' is invalid in vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/LoadConfiguration.php on line 47.  
+
+  2025-08-16 05:01:20 .................................................................. ~ 0s
+  2025-08-16 05:01:20 /images/required/profile.png ..................................... ~ 0s
+
+   WARN  PHP Notice: date_default_timezone_set(): Timezone ID '' is invalid in vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/LoadConfiguration.php on line 47.  
+
+  2025-08-16 05:01:20 .................................................................. ~ 0s
+
+   WARN  PHP Notice: date_default_timezone_set(): Timezone ID '' is invalid in vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/LoadConfiguration.php on line 47.  
+
+  2025-08-16 05:01:20 .................................................................. ~ 0s
+
+   WARN  PHP Notice: date_default_timezone_set(): Timezone ID '' is invalid in vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/LoadConfiguration.php on line 47.  
+
+  2025-08-16 05:01:20 .................................................................. ~ 0s
+  2025-08-16 05:01:20 /fonts/Urbanist-Regular.ttf?0b2ce1ceae32e92108a2eaa8fa541b2d ..... ~ 0s
+  2025-08-16 05:01:20 /fonts/fa-solid-900.woff2?41c0f706d8ce93933771be0292757b92 ....... ~ 0s
+  2025-08-16 05:01:20 /fonts/Urbanist-SemiBold.ttf?41afa9de7bd08ba718d85f8e861749bb .... ~ 0s
+  2025-08-16 05:01:20 /fonts/iconly.woff2?fda93e557636767a6c2803cbd75be465 ............. ~ 0s
+  2025-08-16 05:01:20 /fonts/Urbanist-Medium.ttf?8ac3a860ce667ec267b7b5e44ae92833 ...... ~ 0s
+
+   WARN  PHP Notice: date_default_timezone_set(): Timezone ID '' is invalid in vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/LoadConfiguration.php on line 47.  
+
+  2025-08-16 05:01:20 .................................................................. ~ 0s
+
+   WARN  PHP Notice: date_default_timezone_set(): Timezone ID '' is invalid in vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/LoadConfiguration.php on line 47.  
+
+  2025-08-16 05:01:20 .................................................................. ~ 0s
+
+   WARN  PHP Notice: date_default_timezone_set(): Timezone ID '' is invalid in vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/LoadConfiguration.php on line 47.  
+
+  2025-08-16 05:01:20 .................................................................. ~ 0s
+
+   WARN  PHP Notice: date_default_timezone_set(): Timezone ID '' is invalid in vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/LoadConfiguration.php on line 47.  
+
+  2025-08-16 05:01:20 .................................................................. ~ 0s
+  2025-08-16 05:01:20 /images/required/theme-logo.png .................................. ~ 0s
+
+   WARN  PHP Notice: date_default_timezone_set(): Timezone ID '' is invalid in vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/LoadConfiguration.php on line 47.  
+
+  2025-08-16 05:01:20 .................................................................. ~ 0s
+  2025-08-16 05:01:20 /images/required/theme-favicon-logo.png .......................... ~ 0s
+  2025-08-16 05:01:20 /images/required/theme-footer-logo.png ........................... ~ 0s
+
+   WARN  PHP Notice: date_default_timezone_set(): Timezone ID '' is invalid in vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/LoadConfiguration.php on line 47.  
+
+  2025-08-16 05:01:20 .................................................................. ~ 0s
+  2025-08-16 05:01:20 /storage/3/brazil.png ............................................ ~ 0s
+  2025-08-16 05:01:20 /storage/2/english.png ........................................... ~ 0s
+  2025-08-16 05:01:20 /images/required/theme-favicon-logo.png .......................... ~ 0s
+  2025-08-16 05:01:22 /serviceworker.js ................................................ ~ 0s
+
+   WARN  PHP Notice: date_default_timezone_set(): Timezone ID '' is invalid in vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/LoadConfiguration.php on line 47.  
+
+  2025-08-16 05:01:23 .................................................................. ~ 0s
+
+   WARN  PHP Notice: date_default_timezone_set(): Timezone ID '' is invalid in vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/LoadConfiguration.php on line 47.  
+
+  2025-08-16 05:01:23 .................................................................. ~ 0s
+
+   WARN  PHP Notice: date_default_timezone_set(): Timezone ID '' is invalid in vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/LoadConfiguration.php on line 47.  
+
+  2025-08-16 05:15:01 .................................................................. ~ 0s
+  2025-08-16 05:15:01 /themes/default/css/custom.css ................................... ~ 0s
+  2025-08-16 05:15:01 /themes/default/js/modal.js ...................................... ~ 0s
+  2025-08-16 05:15:01 /themes/default/js/customScript.js ............................... ~ 0s
+  2025-08-16 05:15:01 /pwa/index.js .................................................... ~ 0s
+  2025-08-16 05:15:01 /themes/default/js/tabs.js ....................................... ~ 0s
+
+   WARN  PHP Notice: date_default_timezone_set(): Timezone ID '' is invalid in vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/LoadConfiguration.php on line 47.  
+
+  2025-08-16 05:16:03 .................................................................. ~ 1s
+
+   WARN  PHP Notice: date_default_timezone_set(): Timezone ID '' is invalid in vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/LoadConfiguration.php on line 47.  
+
+  2025-08-16 05:16:03 .................................................................. ~ 1s
+
+   WARN  PHP Notice: date_default_timezone_set(): Timezone ID '' is invalid in vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/LoadConfiguration.php on line 47.  
+
+  2025-08-16 05:16:03 .................................................................. ~ 1s
+
+   WARN  PHP Notice: date_default_timezone_set(): Timezone ID '' is invalid in vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/LoadConfiguration.php on line 47.  
+
+  2025-08-16 05:16:03 .................................................................. ~ 1s
+  2025-08-16 05:16:03 /images/required/profile.png ..................................... ~ 1s
+  2025-08-16 05:16:04 /fonts/Urbanist-Regular.ttf?0b2ce1ceae32e92108a2eaa8fa541b2d ..... ~ 0s
+
+   WARN  PHP Notice: date_default_timezone_set(): Timezone ID '' is invalid in vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/LoadConfiguration.php on line 47.  
+
+  2025-08-16 05:16:04 .................................................................. ~ 0s
+  2025-08-16 05:16:04 /fonts/fa-solid-900.woff2?41c0f706d8ce93933771be0292757b92 ....... ~ 0s
+  2025-08-16 05:16:04 /fonts/Urbanist-SemiBold.ttf?41afa9de7bd08ba718d85f8e861749bb .... ~ 0s
+  2025-08-16 05:16:04 /fonts/iconly.woff2?fda93e557636767a6c2803cbd75be465 ............. ~ 0s
+
+   WARN  PHP Notice: date_default_timezone_set(): Timezone ID '' is invalid in vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/LoadConfiguration.php on line 47.  
+
+  2025-08-16 05:16:04 .................................................................. ~ 0s
+  2025-08-16 05:16:04 /fonts/Urbanist-Medium.ttf?8ac3a860ce667ec267b7b5e44ae92833 ...... ~ 0s
+
+   WARN  PHP Notice: date_default_timezone_set(): Timezone ID '' is invalid in vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/LoadConfiguration.php on line 47.  
+
+  2025-08-16 05:16:04 .................................................................. ~ 0s
+
+   WARN  PHP Notice: date_default_timezone_set(): Timezone ID '' is invalid in vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/LoadConfiguration.php on line 47.  
+
+  2025-08-16 05:16:04 .................................................................. ~ 0s
+  2025-08-16 05:16:04 /images/required/theme-logo.png .................................. ~ 0s
+
+   WARN  PHP Notice: date_default_timezone_set(): Timezone ID '' is invalid in vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/LoadConfiguration.php on line 47.  
+
+  2025-08-16 05:16:04 .................................................................. ~ 0s
+  2025-08-16 05:16:04 /images/required/theme-favicon-logo.png .......................... ~ 0s
+  2025-08-16 05:16:04 /images/required/theme-footer-logo.png ........................... ~ 0s
+
+   WARN  PHP Notice: date_default_timezone_set(): Timezone ID '' is invalid in vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/LoadConfiguration.php on line 47.  
+
+  2025-08-16 05:16:04 .................................................................. ~ 0s
+  2025-08-16 05:16:04 /storage/3/brazil.png ............................................ ~ 0s
+  2025-08-16 05:16:04 /storage/2/english.png ........................................... ~ 0s
+  2025-08-16 05:16:04 /images/required/theme-favicon-logo.png .......................... ~ 0s
+  2025-08-16 05:16:06 /serviceworker.js ................................................ ~ 0s
+
+   WARN  PHP Notice: date_default_timezone_set(): Timezone ID '' is invalid in vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/LoadConfiguration.php on line 47.  
+
+  2025-08-16 05:16:06 .................................................................. ~ 1s
+
+   WARN  PHP Notice: date_default_timezone_set(): Timezone ID '' is invalid in vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/LoadConfiguration.php on line 47.  
+
+  2025-08-16 05:16:07 .................................................................. ~ 0s
+
+   WARN  PHP Notice: date_default_timezone_set(): Timezone ID '' is invalid in vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/LoadConfiguration.php on line 47.  
+
+  2025-08-16 05:41:00 .................................................................. ~ 1s
+  2025-08-16 05:41:01 /images/required/theme-favicon-logo.png .......................... ~ 0s
+
+   WARN  PHP Notice: date_default_timezone_set(): Timezone ID '' is invalid in vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/LoadConfiguration.php on line 47.  
+
+  2025-08-16 05:41:01 .................................................................. ~ 0s
+
+   WARN  PHP Notice: date_default_timezone_set(): Timezone ID '' is invalid in vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/LoadConfiguration.php on line 47.  
+
+  2025-08-16 05:41:01 .................................................................. ~ 0s
+
+   WARN  PHP Notice: date_default_timezone_set(): Timezone ID '' is invalid in vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/LoadConfiguration.php on line 47.  
+
+  2025-08-16 05:41:01 .................................................................. ~ 0s
+
+   WARN  PHP Notice: date_default_timezone_set(): Timezone ID '' is invalid in vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/LoadConfiguration.php on line 47.  
+
+  2025-08-16 05:41:01 .................................................................. ~ 0s
+
+   WARN  PHP Notice: date_default_timezone_set(): Timezone ID '' is invalid in vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/LoadConfiguration.php on line 47.  
+
+  2025-08-16 05:41:01 .................................................................. ~ 0s
+
+   WARN  PHP Notice: date_default_timezone_set(): Timezone ID '' is invalid in vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/LoadConfiguration.php on line 47.  
+
+  2025-08-16 05:41:27 .................................................................. ~ 0s
+  2025-08-16 05:41:27 /images/required/theme-favicon-logo.png .......................... ~ 0s
+
+   WARN  PHP Notice: date_default_timezone_set(): Timezone ID '' is invalid in vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/LoadConfiguration.php on line 47.  
+
+  2025-08-16 05:41:27 .................................................................. ~ 0s
+  2025-08-16 05:41:27 /images/required/theme-favicon-logo.png .......................... ~ 0s
+
+   WARN  PHP Notice: date_default_timezone_set(): Timezone ID '' is invalid in vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/LoadConfiguration.php on line 47.  
+
+  2025-08-16 05:41:48 .................................................................. ~ 0s
+
+   WARN  PHP Notice: date_default_timezone_set(): Timezone ID '' is invalid in vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/LoadConfiguration.php on line 47.  
+
+  2025-08-16 05:41:48 .................................................................. ~ 0s
+
+   WARN  PHP Notice: date_default_timezone_set(): Timezone ID '' is invalid in vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/LoadConfiguration.php on line 47.  
+
+  2025-08-16 05:41:48 .................................................................. ~ 0s
+  2025-08-16 05:41:48 /themes/default/css/custom.css ................................... ~ 0s
+  2025-08-16 05:41:48 /css/app.css ..................................................... ~ 0s
+  2025-08-16 05:41:48 /themes/default/js/modal.js ...................................... ~ 0s
+  2025-08-16 05:41:48 /themes/default/js/customScript.js ............................... ~ 0s
+  2025-08-16 05:41:48 /pwa/index.js .................................................... ~ 0s
+  2025-08-16 05:41:48 /themes/default/js/tabs.js ....................................... ~ 0s
+  2025-08-16 05:41:48 /js/app.js ....................................................... ~ 0s
+  2025-08-16 05:41:48 /serviceworker.js ................................................ ~ 0s
+
+   WARN  PHP Notice: date_default_timezone_set(): Timezone ID '' is invalid in vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/LoadConfiguration.php on line 47.  
+
+  2025-08-16 05:41:48 .................................................................. ~ 0s
+  2025-08-16 05:41:48 /css/app.css ..................................................... ~ 0s
+  2025-08-16 05:41:48 /js/app.js ....................................................... ~ 0s
+  2025-08-16 05:41:48 /images/icons/icon-72x72.png ..................................... ~ 0s
+  2025-08-16 05:41:48 /images/icons/icon-96x96.png ..................................... ~ 0s
+  2025-08-16 05:41:48 /images/icons/icon-128x128.png ................................... ~ 0s
+  2025-08-16 05:41:48 /images/icons/icon-144x144.png ................................... ~ 0s
+  2025-08-16 05:41:48 /images/icons/icon-152x152.png ................................... ~ 0s
+  2025-08-16 05:41:48 /images/icons/icon-192x192.png ................................... ~ 0s
+  2025-08-16 05:41:48 /images/icons/icon-384x384.png ................................... ~ 0s
+  2025-08-16 05:41:48 /images/icons/icon-512x512.png ................................... ~ 0s
+
+   WARN  PHP Notice: date_default_timezone_set(): Timezone ID '' is invalid in vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/LoadConfiguration.php on line 47.  
+
+  2025-08-16 05:41:49 .................................................................. ~ 0s
+
+   WARN  PHP Notice: date_default_timezone_set(): Timezone ID '' is invalid in vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/LoadConfiguration.php on line 47.  
+
+  2025-08-16 05:41:49 .................................................................. ~ 0s
+
+   WARN  PHP Notice: date_default_timezone_set(): Timezone ID '' is invalid in vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/LoadConfiguration.php on line 47.  
+
+  2025-08-16 05:41:49 .................................................................. ~ 0s
+
+   WARN  PHP Notice: date_default_timezone_set(): Timezone ID '' is invalid in vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/LoadConfiguration.php on line 47.  
+
+  2025-08-16 05:41:49 .................................................................. ~ 0s
+
+   WARN  PHP Notice: date_default_timezone_set(): Timezone ID '' is invalid in vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/LoadConfiguration.php on line 47.  
+
+  2025-08-16 05:41:49 .................................................................. ~ 0s
+  2025-08-16 05:41:49 /images/required/auth.jpg ........................................ ~ 0s
+  2025-08-16 05:41:49 /fonts/Urbanist-Regular.ttf?0b2ce1ceae32e92108a2eaa8fa541b2d ..... ~ 0s
+  2025-08-16 05:41:49 /fonts/Urbanist-SemiBold.ttf?41afa9de7bd08ba718d85f8e861749bb .... ~ 0s
+  2025-08-16 05:41:49 /fonts/iconly.woff2?fda93e557636767a6c2803cbd75be465 ............. ~ 0s
+  2025-08-16 05:41:49 /fonts/fa-regular-400.woff2?1f3772178d9e5bed38a6ca738d28cd4b ..... ~ 0s
+  2025-08-16 05:41:49 /fonts/Urbanist-Medium.ttf?8ac3a860ce667ec267b7b5e44ae92833 ...... ~ 0s
+  2025-08-16 05:41:49 /fonts/Urbanist-Bold.ttf?6ba2115369777791a92307fcf1dfe15d ........ ~ 0s
+
+   WARN  PHP Notice: date_default_timezone_set(): Timezone ID '' is invalid in vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/LoadConfiguration.php on line 47.  
+
+  2025-08-16 05:41:49 .................................................................. ~ 0s
+
+   WARN  PHP Notice: date_default_timezone_set(): Timezone ID '' is invalid in vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/LoadConfiguration.php on line 47.  
+
+  2025-08-16 05:41:49 .................................................................. ~ 1s
+
+   WARN  PHP Notice: date_default_timezone_set(): Timezone ID '' is invalid in vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/LoadConfiguration.php on line 47.  
+
+  2025-08-16 05:41:49 .................................................................. ~ 1s
+  2025-08-16 05:41:49 /images/required/empty-cart.gif .................................. ~ 1s
+  2025-08-16 05:41:49 /images/required/theme-logo.png .................................. ~ 1s
+
+   WARN  PHP Notice: date_default_timezone_set(): Timezone ID '' is invalid in vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/LoadConfiguration.php on line 47.  
+
+  2025-08-16 05:41:50 .................................................................. ~ 0s
+
+   WARN  PHP Notice: date_default_timezone_set(): Timezone ID '' is invalid in vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/LoadConfiguration.php on line 47.  
+
+  2025-08-16 05:41:50 .................................................................. ~ 0s
+  2025-08-16 05:41:49 /images/required/theme-favicon-logo.png .......................... ~ 1s
+  2025-08-16 05:41:50 /images/required/theme-footer-logo.png ........................... ~ 0s
+
+   WARN  PHP Notice: date_default_timezone_set(): Timezone ID '' is invalid in vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/LoadConfiguration.php on line 47.  
+
+  2025-08-16 05:41:50 .................................................................. ~ 0s
+  2025-08-16 05:41:50 /storage/2/english.png ........................................... ~ 0s
+
+   WARN  PHP Notice: date_default_timezone_set(): Timezone ID '' is invalid in vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/LoadConfiguration.php on line 47.  
+
+  2025-08-16 05:41:50 .................................................................. ~ 0s
+  2025-08-16 05:41:50 /storage/3/brazil.png ............................................ ~ 0s
+  2025-08-16 05:41:50 /images/required/theme-favicon-logo.png .......................... ~ 0s
+
+   WARN  PHP Notice: date_default_timezone_set(): Timezone ID '' is invalid in vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/LoadConfiguration.php on line 47.  
+
+  2025-08-16 05:41:52 .................................................................. ~ 0s
+
+   WARN  PHP Notice: date_default_timezone_set(): Timezone ID '' is invalid in vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/LoadConfiguration.php on line 47.  
+
+  2025-08-16 05:41:52 .................................................................. ~ 0s
+
+   WARN  PHP Notice: date_default_timezone_set(): Timezone ID '' is invalid in vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/LoadConfiguration.php on line 47.  
+
+  2025-08-16 05:42:02 .................................................................. ~ 1s
+
+   WARN  PHP Notice: date_default_timezone_set(): Timezone ID '' is invalid in vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/LoadConfiguration.php on line 47.  
+
+  2025-08-16 05:42:03 .................................................................. ~ 0s
+
+   WARN  PHP Notice: date_default_timezone_set(): Timezone ID '' is invalid in vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/LoadConfiguration.php on line 47.  
+
+  2025-08-16 05:42:06 .................................................................. ~ 0s
+
+   WARN  PHP Notice: date_default_timezone_set(): Timezone ID '' is invalid in vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/LoadConfiguration.php on line 47.  
+
+  2025-08-16 05:42:06 .................................................................. ~ 0s
+
+   WARN  PHP Notice: date_default_timezone_set(): Timezone ID '' is invalid in vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/LoadConfiguration.php on line 47.  
+
+  2025-08-16 05:42:19 .................................................................. ~ 0s
+
+   WARN  PHP Notice: date_default_timezone_set(): Timezone ID '' is invalid in vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/LoadConfiguration.php on line 47.  
+
+  2025-08-16 05:42:19 .................................................................. ~ 0s
+
+   WARN  PHP Notice: date_default_timezone_set(): Timezone ID '' is invalid in vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/LoadConfiguration.php on line 47.  
+
+  2025-08-16 05:42:56 .................................................................. ~ 1s
+
+   WARN  PHP Notice: date_default_timezone_set(): Timezone ID '' is invalid in vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/LoadConfiguration.php on line 47.  
+
+  2025-08-16 05:42:57 .................................................................. ~ 0s
+
+   WARN  PHP Notice: date_default_timezone_set(): Timezone ID '' is invalid in vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/LoadConfiguration.php on line 47.  
+
+  2025-08-16 05:42:57 .................................................................. ~ 0s
+  2025-08-16 05:42:57 /images/required/profile.png ..................................... ~ 0s
+
+   WARN  PHP Notice: date_default_timezone_set(): Timezone ID '' is invalid in vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/LoadConfiguration.php on line 47.  
+
+  2025-08-16 05:42:57 .................................................................. ~ 0s
+
+   WARN  PHP Notice: date_default_timezone_set(): Timezone ID '' is invalid in vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/LoadConfiguration.php on line 47.  
+
+  2025-08-16 05:42:57 .................................................................. ~ 0s
+
+   WARN  PHP Notice: date_default_timezone_set(): Timezone ID '' is invalid in vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/LoadConfiguration.php on line 47.  
+
+  2025-08-16 05:42:57 .................................................................. ~ 0s
+
+   WARN  PHP Notice: date_default_timezone_set(): Timezone ID '' is invalid in vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/LoadConfiguration.php on line 47.  
+
+  2025-08-16 05:42:57 .................................................................. ~ 0s
+
+   WARN  PHP Notice: date_default_timezone_set(): Timezone ID '' is invalid in vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/LoadConfiguration.php on line 47.  
+
+  2025-08-16 05:42:57 .................................................................. ~ 0s
+
+   WARN  PHP Notice: date_default_timezone_set(): Timezone ID '' is invalid in vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/LoadConfiguration.php on line 47.  
+
+  2025-08-16 05:42:57 .................................................................. ~ 1s
+
+   WARN  PHP Notice: date_default_timezone_set(): Timezone ID '' is invalid in vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/LoadConfiguration.php on line 47.  
+
+  2025-08-16 05:42:58 .................................................................. ~ 0s
+
+   WARN  PHP Notice: date_default_timezone_set(): Timezone ID '' is invalid in vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/LoadConfiguration.php on line 47.  
+
+  2025-08-16 05:42:58 .................................................................. ~ 0s
+
+   WARN  PHP Notice: date_default_timezone_set(): Timezone ID '' is invalid in vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/LoadConfiguration.php on line 47.  
+
+  2025-08-16 05:42:58 .................................................................. ~ 0s
+  2025-08-16 05:42:57 /fonts/fa-solid-900.woff2?41c0f706d8ce93933771be0292757b92 ....... ~ 1s
+
+   WARN  PHP Notice: date_default_timezone_set(): Timezone ID '' is invalid in vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/LoadConfiguration.php on line 47.  
+
+  2025-08-16 05:42:58 .................................................................. ~ 0s
+
+   WARN  PHP Notice: date_default_timezone_set(): Timezone ID '' is invalid in vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/LoadConfiguration.php on line 47.  
+
+  2025-08-16 05:42:58 .................................................................. ~ 0s
+
+   WARN  PHP Notice: date_default_timezone_set(): Timezone ID '' is invalid in vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/LoadConfiguration.php on line 47.  
+
+  2025-08-16 05:42:58 .................................................................. ~ 0s
+  2025-08-16 05:42:58 /images/required/theme-favicon-logo.png .......................... ~ 0s
+
+   WARN  PHP Notice: date_default_timezone_set(): Timezone ID '' is invalid in vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/LoadConfiguration.php on line 47.  
+
+  2025-08-16 05:44:54 .................................................................. ~ 0s
+  2025-08-16 05:46:38 /css/app.css ..................................................... ~ 0s
+  2025-08-16 05:46:38 /themes/default/css/custom.css ................................... ~ 0s
+  2025-08-16 05:46:38 /themes/default/js/modal.js ...................................... ~ 0s
+  2025-08-16 05:46:38 /themes/default/js/customScript.js ............................... ~ 0s
+  2025-08-16 05:46:38 /pwa/index.js .................................................... ~ 0s
+  2025-08-16 05:46:38 /themes/default/js/tabs.js ....................................... ~ 0s
+  2025-08-16 05:46:38 /js/app.js ....................................................... ~ 0s
+  2025-08-16 05:46:38 /images/icons/icon-512x512.png ................................... ~ 0s
+  2025-08-16 05:46:38 /serviceworker.js ................................................ ~ 0s
+
+   WARN  PHP Notice: date_default_timezone_set(): Timezone ID '' is invalid in vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/LoadConfiguration.php on line 47.  
+
+  2025-08-16 05:46:38 .................................................................. ~ 0s
+  2025-08-16 05:46:38 /css/app.css ..................................................... ~ 0s
+  2025-08-16 05:46:38 /js/app.js ....................................................... ~ 0s
+  2025-08-16 05:46:38 /images/icons/icon-72x72.png ..................................... ~ 0s
+  2025-08-16 05:46:38 /images/icons/icon-96x96.png ..................................... ~ 0s
+  2025-08-16 05:46:38 /images/icons/icon-128x128.png ................................... ~ 0s
+  2025-08-16 05:46:38 /images/icons/icon-144x144.png ................................... ~ 0s
+  2025-08-16 05:46:38 /images/icons/icon-152x152.png ................................... ~ 0s
+  2025-08-16 05:46:38 /images/icons/icon-192x192.png ................................... ~ 0s
+  2025-08-16 05:46:38 /images/icons/icon-384x384.png ................................... ~ 0s
+  2025-08-16 05:46:38 /images/icons/icon-512x512.png ................................... ~ 0s
+  2025-08-16 05:50:14 /images/required/profile.png ..................................... ~ 0s
+
+   WARN  PHP Notice: date_default_timezone_set(): Timezone ID '' is invalid in vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/LoadConfiguration.php on line 47.  
+
+  2025-08-16 05:50:14 .................................................................. ~ 0s
+
+   WARN  PHP Notice: date_default_timezone_set(): Timezone ID '' is invalid in vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/LoadConfiguration.php on line 47.  
+
+  2025-08-16 05:50:14 .................................................................. ~ 0s
+
+   WARN  PHP Notice: date_default_timezone_set(): Timezone ID '' is invalid in vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/LoadConfiguration.php on line 47.  
+
+  2025-08-16 05:50:14 .................................................................. ~ 0s
+
+   WARN  PHP Notice: date_default_timezone_set(): Timezone ID '' is invalid in vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/LoadConfiguration.php on line 47.  
+
+  2025-08-16 05:50:14 .................................................................. ~ 0s
+
+   WARN  PHP Notice: date_default_timezone_set(): Timezone ID '' is invalid in vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/LoadConfiguration.php on line 47.  
+
+  2025-08-16 05:50:14 .................................................................. ~ 0s
+
+   WARN  PHP Notice: date_default_timezone_set(): Timezone ID '' is invalid in vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/LoadConfiguration.php on line 47.  
+
+  2025-08-16 05:50:14 .................................................................. ~ 0s
+
+   WARN  PHP Notice: date_default_timezone_set(): Timezone ID '' is invalid in vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/LoadConfiguration.php on line 47.  
+
+  2025-08-16 05:50:14 .................................................................. ~ 0s
+
+   WARN  PHP Notice: date_default_timezone_set(): Timezone ID '' is invalid in vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/LoadConfiguration.php on line 47.  
+
+  2025-08-16 05:50:14 .................................................................. ~ 1s
+  2025-08-16 05:50:14 /fonts/Urbanist-Regular.ttf?0b2ce1ceae32e92108a2eaa8fa541b2d ..... ~ 1s
+  2025-08-16 05:50:15 /fonts/fa-solid-900.woff2?41c0f706d8ce93933771be0292757b92 ....... ~ 0s
+  2025-08-16 05:50:15 /fonts/Urbanist-SemiBold.ttf?41afa9de7bd08ba718d85f8e861749bb .... ~ 0s
+  2025-08-16 05:50:15 /fonts/iconly.woff2?fda93e557636767a6c2803cbd75be465 ............. ~ 0s
+  2025-08-16 05:50:15 /fonts/Urbanist-Medium.ttf?8ac3a860ce667ec267b7b5e44ae92833 ...... ~ 0s
+  2025-08-16 05:50:15 /fonts/Urbanist-Bold.ttf?6ba2115369777791a92307fcf1dfe15d ........ ~ 0s
+
+   WARN  PHP Notice: date_default_timezone_set(): Timezone ID '' is invalid in vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/LoadConfiguration.php on line 47.  
+
+  2025-08-16 05:50:15 .................................................................. ~ 0s
+
+   WARN  PHP Notice: date_default_timezone_set(): Timezone ID '' is invalid in vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/LoadConfiguration.php on line 47.  
+
+  2025-08-16 05:50:15 .................................................................. ~ 0s
+
+   WARN  PHP Notice: date_default_timezone_set(): Timezone ID '' is invalid in vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/LoadConfiguration.php on line 47.  
+
+  2025-08-16 05:50:15 .................................................................. ~ 0s
+
+   WARN  PHP Notice: date_default_timezone_set(): Timezone ID '' is invalid in vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/LoadConfiguration.php on line 47.  
+
+  2025-08-16 05:50:15 .................................................................. ~ 0s
+
+   WARN  PHP Notice: date_default_timezone_set(): Timezone ID '' is invalid in vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/LoadConfiguration.php on line 47.  
+
+  2025-08-16 05:50:15 .................................................................. ~ 0s
+
+   WARN  PHP Notice: date_default_timezone_set(): Timezone ID '' is invalid in vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/LoadConfiguration.php on line 47.  
+
+  2025-08-16 05:50:15 .................................................................. ~ 0s
+
+   WARN  PHP Notice: date_default_timezone_set(): Timezone ID '' is invalid in vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/LoadConfiguration.php on line 47.  
+
+  2025-08-16 05:50:15 .................................................................. ~ 0s
+
+   WARN  PHP Notice: date_default_timezone_set(): Timezone ID '' is invalid in vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/LoadConfiguration.php on line 47.  
+
+  2025-08-16 05:50:15 .................................................................. ~ 0s
+
+   WARN  PHP Notice: date_default_timezone_set(): Timezone ID '' is invalid in vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/LoadConfiguration.php on line 47.  
+
+  2025-08-16 05:50:15 .................................................................. ~ 0s
+  2025-08-16 05:50:15 /images/required/theme-logo.png .................................. ~ 0s
+
+   WARN  PHP Notice: date_default_timezone_set(): Timezone ID '' is invalid in vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/LoadConfiguration.php on line 47.  
+
+  2025-08-16 05:50:15 .................................................................. ~ 0s
+
+   WARN  PHP Notice: date_default_timezone_set(): Timezone ID '' is invalid in vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/LoadConfiguration.php on line 47.  
+
+  2025-08-16 05:50:15 .................................................................. ~ 0s
+  2025-08-16 05:50:15 /storage/3/brazil.png ............................................ ~ 0s
+  2025-08-16 05:50:15 /storage/2/english.png ........................................... ~ 0s
+  2025-08-16 05:50:15 /images/required/theme-favicon-logo.png .......................... ~ 0s
+
+   WARN  PHP Notice: date_default_timezone_set(): Timezone ID '' is invalid in vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/LoadConfiguration.php on line 47.  
+
+  2025-08-16 05:50:17 .................................................................. ~ 0s
+
+   WARN  PHP Notice: date_default_timezone_set(): Timezone ID '' is invalid in vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/LoadConfiguration.php on line 47.  
+
+  2025-08-16 05:50:17 .................................................................. ~ 0s
+
+   WARN  PHP Notice: date_default_timezone_set(): Timezone ID '' is invalid in vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/LoadConfiguration.php on line 47.  
+
+  2025-08-16 05:50:55 .................................................................. ~ 0s
+  2025-08-16 05:50:55 /images/required/theme-favicon-logo.png .......................... ~ 0s
+
+   WARN  PHP Notice: date_default_timezone_set(): Timezone ID '' is invalid in vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/LoadConfiguration.php on line 47.  
+
+  2025-08-16 05:50:55 .................................................................. ~ 0s
+
+   WARN  PHP Notice: date_default_timezone_set(): Timezone ID '' is invalid in vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/LoadConfiguration.php on line 47.  
+
+  2025-08-16 05:50:55 .................................................................. ~ 0s
+
+   WARN  PHP Notice: date_default_timezone_set(): Timezone ID '' is invalid in vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/LoadConfiguration.php on line 47.  
+
+  2025-08-16 05:50:55 .................................................................. ~ 0s
+
+   WARN  PHP Notice: date_default_timezone_set(): Timezone ID '' is invalid in vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/LoadConfiguration.php on line 47.  
+
+  2025-08-16 05:50:55 .................................................................. ~ 0s
+
+   WARN  PHP Notice: date_default_timezone_set(): Timezone ID '' is invalid in vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/LoadConfiguration.php on line 47.  
+
+  2025-08-16 05:50:55 .................................................................. ~ 0s
+
+   WARN  PHP Notice: date_default_timezone_set(): Timezone ID '' is invalid in vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/LoadConfiguration.php on line 47.  
+
+  2025-08-16 05:53:03 .................................................................. ~ 0s
+  2025-08-16 05:53:03 /images/required/theme-favicon-logo.png .......................... ~ 0s
+
+   WARN  PHP Notice: date_default_timezone_set(): Timezone ID '' is invalid in vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/LoadConfiguration.php on line 47.  
+
+  2025-08-16 05:53:03 .................................................................. ~ 0s
