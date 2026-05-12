@@ -1,11 +1,24 @@
 services:
+  caddy:
+    image: caddy:2-alpine
+    restart: unless-stopped
+    ports:
+      - "80:80"
+      - "443:443"
+    volumes:
+      - ./Caddyfile:/etc/caddy/Caddyfile:ro
+      - caddy-data:/data
+      - caddy-config:/config
+    depends_on:
+      - app
+
   app:
     build:
       context: .
       dockerfile: Dockerfile
     restart: unless-stopped
-    ports:
-      - "${APP_PORT:-8080}:80"
+    expose:
+      - "80"
     environment:
       APP_ENV: production
       APP_DEBUG: "false"
@@ -51,3 +64,5 @@ services:
 volumes:
   app-storage:
   mysql-data:
+  caddy-data:
+  caddy-config:
