@@ -1,4 +1,5 @@
-var staticCacheName = "pwa-v" + new Date().getTime();
+// Versão do cache — incremente manualmente a cada deploy para invalidar o cache antigo
+var staticCacheName = "pwa-v2026.05.11";
 var filesToCache = [
     '/offline.html',
     '/css/app.css',
