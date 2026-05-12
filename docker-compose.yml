@@ -5,11 +5,14 @@ services:
       dockerfile: Dockerfile
     image: buypeer-app
     restart: unless-stopped
-    depends_on:
-      mysql:
-        condition: service_healthy
     ports:
       - "${APP_PORT:-8080}:80"
+    labels:
+      - traefik.enable=true
+      - traefik.http.routers.buypeer.rule=Host(`buypeer.shop`)
+      - traefik.http.routers.buypeer.entrypoints=websecure
+      - traefik.http.routers.buypeer.tls.certresolver=letsencrypt
+      - traefik.http.services.buypeer.loadbalancer.server.port=80
     environment:
       APP_ENV: production
       APP_DEBUG: "false"
@@ -29,6 +32,12 @@ services:
       RUN_MIGRATIONS: "true"
     volumes:
       - app-storage:/var/www/html/storage
+    networks:
+      - traefik-proxy
+      - default
+    depends_on:
+      mysql:
+        condition: service_healthy
 
   mysql:
     image: mysql:8.0
@@ -52,3 +61,7 @@ services:
 volumes:
   app-storage:
   mysql-data:
+
+networks:
+  traefik-proxy:
+    external: true
