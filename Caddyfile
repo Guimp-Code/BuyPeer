@@ -1,7 +1,0 @@
-buypeer.shop {
-    reverse_proxy app:80
-}
-
-www.buypeer.shop {
-    redir https://buypeer.shop{uri} permanent
-}
