@@ -16,7 +16,7 @@ services:
       APP_ENV: production
       APP_DEBUG: "false"
       APP_URL: "https://buypeer.shop"
-      APP_KEY: "${APP_KEY:-base64:qaF9Z27M24O1jX/1RGsDlLjv6L9bZlDakc1UuG7o65Y=}"
+      APP_KEY: "base64:qaF9Z27M24O1jX/1RGsDlLjv6L9bZlDakc1UuG7o65Y="
       LOG_CHANNEL: stack
       LOG_LEVEL: error
       DB_CONNECTION: mysql
@@ -33,7 +33,6 @@ services:
       - app-storage:/var/www/html/storage
     networks:
       - traefik-proxy
-      - internal
     depends_on:
       mysql:
         condition: service_healthy
@@ -57,7 +56,7 @@ services:
       retries: 10
       start_period: 20s
     networks:
-      - internal
+      - traefik-proxy
 
 volumes:
   app-storage:
@@ -66,5 +65,3 @@ volumes:
 networks:
   traefik-proxy:
     external: true
-  internal:
-    driver: bridge
